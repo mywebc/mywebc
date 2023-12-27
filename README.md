@@ -15,7 +15,7 @@
      
 <strong>Hi, I am Ahser!👋 </strong>
 
-<strong>A full stack developer from China🇨🇳,currently living in shanghai. </strong>
+<strong>A web developer from China🇨🇳,currently living in shanghai. </strong>
 
 </pre> 
 
@@ -23,8 +23,6 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
