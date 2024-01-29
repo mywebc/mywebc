@@ -27,13 +27,5 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-### 💻 Stats
-
-<div>
-
-[![Asher's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=mywebc&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=mywebc&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=mywebc&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=mywebc&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
-
-</div>
-
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:2524729719@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-2524729719@qq.com-blue?style=flat-square&logo=gmail"></a>
